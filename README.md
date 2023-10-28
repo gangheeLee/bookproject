@@ -5,7 +5,8 @@
 Html / css / javascript / ReactJs / NodeJs / MySQL / Git / Figma
 
 # ERD diagram
-![image](https://github.com/gangheeLee/bookproject/assets/121603208/c6ff6429-dc18-4112-b624-f4b9160237be)
+![book_ERD_diagram](https://github.com/gangheeLee/bookproject/assets/121603208/5bfdd4cd-17b8-4500-bff5-89ad5879569b)
+
 
 
 # Figma
