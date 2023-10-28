@@ -28,19 +28,3 @@ Html / css / javascript / ReactJs / NodeJs / MySQL / Git / Figma
 - Book Search : 책을 조회함으로써 구매자는 구매자들이 올려놓은 책정보를 보고 희망가격을 다른 구매자가 올린 책의 가격을 보고 비교할 수 있고, 판매자는 판매가를 조절함으로써 경매를 할 수 있도록 만들었습니다. 
 
 - Q&A : 구매자와 판매자가 의사소통을 할 수 있는 공간을 게시판 형식으로 만들어서 게시글을 작성하고 답변할 수 있는 페이지를 구성하였습니다.
-
-
-# MainPage
-![image](https://github.com/gangheeLee/bookproject/assets/121603208/585c9e88-9ede-4b42-964f-c50d7aa1390c)
-
-![image](https://github.com/gangheeLee/bookproject/assets/121603208/f98a9fb1-0006-4315-927c-0783947bf121)
-
-상단메뉴바를 이용하여 이용하려는 페이지를 이동할 수 있도록 하였습니다. 슬라이드쇼를 보고 가장 인기있는 상품들을 
-진열해 놓고 도서조회바를 이용하여 책의 정보를 바로바로 찾아볼 수 있도록 구현하였습니다.
-페이지 가장 하단에 회사정보를 담아두었습니다.
-
-# MainSearch
-![image](https://github.com/gangheeLee/bookproject/assets/121603208/2564a9ac-52aa-47fd-8fae-306cc7439b83)
-
-메인페이지에서 책제목을 조회하면 책에 대한 정보와 이미지를 nodejs를통해 mysql에서 가져와서 보여주도록 구현하였습니다.
-조회바 밑에 #추천도서를 통해 책정보를 조회할 수 있도록 만들었습니다.
