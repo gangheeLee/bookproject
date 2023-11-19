@@ -13,7 +13,8 @@ Html / css / javascript / ReactJs / NodeJs / MySQL / Git / Figma
 # ERD diagram
 ![book_ERD_diagram](https://github.com/gangheeLee/bookproject/assets/121603208/5bfdd4cd-17b8-4500-bff5-89ad5879569b)
 
-# 영상
+# 영상 (제작 진행중 완성된 부분까지만 올렸습니다.)
+https://youtu.be/V28lsGfJ7Dw
 
 # 기능
 - Mainpage : 슬라이드쇼를 이용하여 5가지의 베스트셀러책들을 보여지게 하였고, 메인화면에 검색바를 만들어서 책을 검색하여 책의 정보를 데이터베이스에서 가져와 제목, 저자, 출판사, 소개글을 보여지게 하였습니다. 페이지 가장 하단에는 회사의 정보를 담아두었습니다.
