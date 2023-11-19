@@ -6,7 +6,9 @@ Html / css / javascript / ReactJs / NodeJs / MySQL / Git / Figma
 
 # 설명
 구매자와 판매자가 회원가입을 하고 로그인을 하여 절판도서 정보를 검색하여 절판도서의 정보를 볼 수 있고, 판매자가 판매하려는 절판도서를 올리면 구매자는 선택하여 구매하는 역경매 시스템을 홈페이지로 구현하였습니다.
+<br/>
 서버 - 위에 업로드한 코드들
+<br/>
 웹페이지 - https://github.com/gangheeLee/7bookproject
 
 # Figma
