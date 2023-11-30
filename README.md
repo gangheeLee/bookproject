@@ -1,6 +1,9 @@
 # 프로젝트
 리버스 옥션 기반 절판 도서 구매 서비스   (2023.10.12 ~ 진행중)
 
+# 개발 환경
+Visual studio code
+
 # 개발 언어
 Html / css / javascript / ReactJs / NodeJs / MySQL / Git / Figma
 
