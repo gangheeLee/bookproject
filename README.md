@@ -1,11 +1,11 @@
 # 프로젝트
-리버스 옥션 기반 절판 도서 구매 서비스   (2023.10.12 ~ 2023.11.20)
+리버스 옥션 기반 절판 도서 구매 서비스   (2023.10.12 ~ 2023.11.17)
 
 # 개발 환경
 Visual studio code
 
 # 개발 언어
-Html / css / javascript / ReactJs / NodeJs / MySQL / Git / Figma
+Html / css / javascript / ReactJs / NodeJs / MySQL / Github / Figma
 
 # 설명
 구매자와 판매자가 회원가입을 하고 로그인을 하여 절판도서 정보를 검색하여 절판도서의 정보를 볼 수 있고, 판매자가 판매하려는 절판도서를 올리면 구매자는 선택하여 구매하는 역경매 시스템을 홈페이지로 구현하였습니다.
